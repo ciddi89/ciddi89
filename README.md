@@ -2,9 +2,11 @@
 
 my name is Christian. I like to code in HTML, PHP, Javascript, CSS, JSON and so on. In the last time, I spent the most time to create my first adapter for ioBroker. I hope you enjoy my work. 👨🏼‍💻
 
-My ioBroker Projects:<br>
-[ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher)
+## My ioBroker Projects:<br>
 
+| Adapter                                                                       | Latest                                                                                                                                    | Stable                                                                                              | Installations                                                                             | Issues                                                                                 |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [ ![ NPM version ]( https://img.shields.io/npm/v/iobroker.device-watcher.svg ) ]( https://www.npmjs.com/package/iobroker.device-watcher ) | ![ Current version in stable repository ]( https://iobroker.live/badges/device-watcher-stable.svg ) | ![ Number of Installations ]( https://iobroker.live/badges/device-watcher-installed.svg ) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
 
 
 <!--
