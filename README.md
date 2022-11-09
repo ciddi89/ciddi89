@@ -10,13 +10,13 @@
 <br />
 
 My name is Christian. I like to code in HTML, PHP, Javascript, CSS, JSON and so on. In the last time, I spent the most time to create my first adapter for ioBroker.
-<br/>
+<br />
 **I hope you enjoy my work! 👨🏼‍💻**
 <br />
 
 <br />
 <h3>My ioBroker Projects:</h3>
-<br>
+<br />
 
 | Adapter                                                                       | Latest                                                                                                                                | Stable                                                                                            | Installations                                                                           | Issues                                                                                 |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -45,6 +45,6 @@ Ask me anything **[here](https://github.com/ciddi89/ciddi89/issues/new)** or <a 
 ---
 
 <div align="center">
-Credit: [ciddi89](https://github.com/ciddi89)
+Credit: <a href="https://github.com/ciddi89">ciddi89</a>
 Last Edited on: 09/11/2022
 </div>
