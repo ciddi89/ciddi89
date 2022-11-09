@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+my name is Christian. I like to code in HTML, Javascript, CSS, JSON and so on. In the last time, I spent the most time to create my first adapter for ioBroker. I hope you enjoy my work.
 <!--
 **ciddi89/ciddi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
