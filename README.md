@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciddi89&show_icons=true&theme=onedark)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciddi89&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciddi89&layout=compact&theme=onedark)](https://github.com/ciddi89/?tab=repositories)
