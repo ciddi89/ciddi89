@@ -9,7 +9,10 @@
 <br />
 <br />
 
-My name is Christian. I like to code in HTML, PHP, Javascript, CSS, JSON and so on. In the last time, I spent the most time to create my first adapter for ioBroker.
+My name is Christian. I like to code in HTML, Javascript, CSS / SCSS, JSON and so on. Also I love all the nerdy smarthome stuff.
+<br />
+<br />
+In the last time, I spent the most time to create my first adapter for ioBroker.
 <br />
 **I hope you enjoy my work! 👨🏼‍💻**
 <br />
