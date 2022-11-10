@@ -23,9 +23,9 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 <h3>My ioBroker Projects:</h3>
 <br />
 
-| Adapter                                                                       | Latest                                                                                                                                | Stable                                                                                            | Installations                                                                           | Issues                                                                                 |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [ ![ NPM version ](https://img.shields.io/npm/v/iobroker.device-watcher.svg) ](https://www.npmjs.com/package/iobroker.device-watcher) | ![ Current version in stable repository ](https://iobroker.live/badges/device-watcher-stable.svg) | ![ Number of Installations ](https://iobroker.live/badges/device-watcher-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
+| Adapter                                                                       | Latest                                                                                                                            | Stable                                                                                           | Installations                                                                         | Issues                                                                                 |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [![NPM version](https://img.shields.io/npm/v/iobroker.device-watcher.svg)](https://www.npmjs.com/package/iobroker.device-watcher) | ![Current version in stable repository ](https://iobroker.live/badges/device-watcher-stable.svg) | ![Number of Installations](https://iobroker.live/badges/device-watcher-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
 
 <br />
 <br />
@@ -41,15 +41,11 @@ Ask me anything **[here](https://github.com/ciddi89/ciddi89/issues/new)** or <a 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciddi89&layout=compact&theme=onedark)](https://github.com/ciddi89/?tab=repositories)
 <br />
 <br />
+
+---
+
 <br />
 
 **Happy Coding!** 😊
 
-</div>
-
----
-
-<div align="center">
-Credit: <a href="https://github.com/ciddi89">ciddi89</a>
-Last Edited on: 09/11/2022
 </div>
