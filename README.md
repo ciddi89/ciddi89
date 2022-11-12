@@ -47,6 +47,7 @@ Ask me anything **[here](https://github.com/ciddi89/ciddi89/issues/new)** or <a 
 <br />
 Just because something works doesn't mean it can't be improved. ☝🏼
 <br />
-**Happy Coding!** 😊
+<br />
+  <b>Happy Coding!</b> 😊
 
 </div>
