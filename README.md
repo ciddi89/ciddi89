@@ -21,7 +21,7 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 
 <br />
   <h3>My ioBroker Projects:</h3>
-<h3> Adapter: </h3>
+<h4> Adapter: </h4>
 <br />
 
 | Adapter                                                                       | Latest                                                                                                                            | Stable                                                                                           | Installations                                                                         | Issues                                                                                 |
@@ -29,7 +29,7 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 | [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [![NPM version](https://img.shields.io/npm/v/iobroker.device-watcher.svg)](https://www.npmjs.com/package/iobroker.device-watcher) | ![Current version in stable repository ](https://iobroker.live/badges/device-watcher-stable.svg) | ![Number of Installations](https://iobroker.live/badges/device-watcher-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
 
 <br />
-<h3> Javascript & Blockly: </h3>
+<h4> Javascript & Blockly: </h4>
 <br />
 
 | Javascript/Blockly                                                                            | Last commit                                                                                              | Issues                                                                                         |
