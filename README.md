@@ -20,7 +20,7 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 <br />
 
 <br />
-<h2>My ioBroker Projects:</h2>
+<h3>My ioBroker Projects:</h3>
 <br />
 <h3> Adapter: </h3>
 <br />
