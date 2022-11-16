@@ -28,9 +28,11 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 | [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [![NPM version](https://img.shields.io/npm/v/iobroker.device-watcher.svg)](https://www.npmjs.com/package/iobroker.device-watcher) | ![Current version in stable repository ](https://iobroker.live/badges/device-watcher-stable.svg) | ![Number of Installations](https://iobroker.live/badges/device-watcher-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
 
 <br />
+
 | Javascript/Blockly                                                                            | Last commit                                                                                              | Issues                                                                                         |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [ioBroker_Fenster_Tueren_zaehlen](https://github.com/ciddi89/ioBroker_Fenster_Tueren_zaehlen) | ![GitHub last commit](https://img.shields.io/github/last-commit/ciddi89/ioBroker_Fenster_Tueren_zaehlen) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker_Fenster_Tueren_zaehlen) |
+
 <br />
 <br />
 
