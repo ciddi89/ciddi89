@@ -38,7 +38,6 @@ In the last time, I spent the most time to create my first adapter for ioBroker.
 
 <br />
 
-<br />
 <h4> Javascript & Blockly: </h4>
 <br />
 
