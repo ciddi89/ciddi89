@@ -9,7 +9,7 @@
 <br />
 <br />
 
-My name is Christian. I like to code in HTML, Javascript, CSS / SCSS, JSON and so on.
+My name is Christian. I am a Home Assistant user and sometimes I also develop.
 <br />
 Also I love all the nerdy smarthome & tech stuff.
 <br />
