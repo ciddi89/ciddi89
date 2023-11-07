@@ -9,9 +9,9 @@
 <br />
 <br />
 
-My name is Christian. I am a Home Assistant user and sometimes I also develop.
+My name is Christian. I'm a smart home enthusiast and hobby developer.
 <br />
-Also I love all the nerdy smarthome & tech stuff.
+I mainly use Home Assistant and love all the nerdy smarthome & tech stuff.
 <br />
 <br />
 In the last time, I spent the most time to create my first adapter for ioBroker.
