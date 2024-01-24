@@ -1,7 +1,6 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="assets/img/Hi.gif" width="30"></h2>
 <br />
-<br />
 
 My name is Christian.
 <br />
