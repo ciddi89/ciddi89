@@ -1,17 +1,9 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="assets/img/Hi.gif" width="30"></h2>
-<a href="https://twitter.com/ciddi89" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/christian_behrends_89" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <br />
 <br />
 
-My name is Christian. I'm a smart home enthusiast and hobby developer.
-<br />
-I mainly use Home Assistant and love all the nerdy smarthome & tech stuff.
+My name is Christian.
 <br />
 <br />
 In the last time, I spent the most time to create my first adapter for ioBroker.
