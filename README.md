@@ -5,38 +5,7 @@
 My name is Christian.
 <br />
 <br />
-In the last time, I spent the most time to create my first adapter for ioBroker.
-<br />
 **I hope you enjoy my work! 👨🏼‍💻**
-<br />
-
-<br />
-  <h3>My ioBroker Projects:</h3>
-<h4> Adapter: </h4>
-<br />
-
-| Adapter                                                                       | Latest                                                                                                                            | Stable                                                                                           | Installations                                                                         | Issues                                                                                 |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [ioBroker.device-watcher](https://github.com/ciddi89/ioBroker.device-watcher) | [![NPM version](https://img.shields.io/npm/v/iobroker.device-watcher.svg)](https://www.npmjs.com/package/iobroker.device-watcher) | ![Current version in stable repository ](https://iobroker.live/badges/device-watcher-stable.svg) | ![Number of Installations](https://iobroker.live/badges/device-watcher-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker.device-watcher) |
-
-<br />
-<h4>Adapter Contribution: </h4>
-<br />
-
-| Adapter                                                                                 | Latest                                                                                                                 | Stable                                                                                    | Installations                                                                   | Issues                                                                                                |
-| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [ioBroker.iceroad](https://github.com/iobroker-community-adapters/ioBroker.iceroad)     | [![NPM version](http://img.shields.io/npm/v/iobroker.iceroad.svg)](https://www.npmjs.com/package/iobroker.iceroad)     | ![Current version in stable repository](http://iobroker.live/badges/iceroad-stable.svg)   | ![Number of Installations](http://iobroker.live/badges/iceroad-installed.svg)   | ![GitHub issues](https://img.shields.io/github/issues/iobroker-community-adapters/ioBroker.iceroad)   |
-| [ioBroker.logparser](https://github.com/iobroker-community-adapters/ioBroker.logparser) | [![NPM version](http://img.shields.io/npm/v/iobroker.logparser.svg)](https://www.npmjs.com/package/iobroker.logparser) | ![Current version in stable repository](http://iobroker.live/badges/logparser-stable.svg) | ![Number of Installations](http://iobroker.live/badges/logparser-installed.svg) | ![GitHub issues](https://img.shields.io/github/issues/iobroker-community-adapters/ioBroker.logparser) |
-
-<br />
-
-<h4> Javascript & Blockly: </h4>
-<br />
-
-| Javascript/Blockly                                                                            | Last commit                                                                                              | Issues                                                                                         |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [ioBroker_Fenster_Tueren_zaehlen](https://github.com/ciddi89/ioBroker_Fenster_Tueren_zaehlen) | ![GitHub last commit](https://img.shields.io/github/last-commit/ciddi89/ioBroker_Fenster_Tueren_zaehlen) | ![GitHub issues](https://img.shields.io/github/issues/ciddi89/ioBroker_Fenster_Tueren_zaehlen) |
-
 <br />
 <br />
 
